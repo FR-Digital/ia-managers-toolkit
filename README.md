@@ -1,8 +1,8 @@
-# AI Evaluation Pratique
+# IA Evaluation Pratique
 
 > **Savoir si votre IA fonctionne bien, sans être data scientist**
 
-[![Stars](https://img.shields.io/github/stars/lafabriq/ai-evaluation-pratique)](https://github.com/lafabriq/ai-evaluation-pratique/stargazers)
+[![Stars](https://img.shields.io/github/stars/FR-Digital/ia-evaluation-pratique)](https://github.com/FR-Digital/ia-evaluation-pratique/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![French](https://img.shields.io/badge/Lang-Français-blue)]()
 [![LaFabriqAI](https://img.shields.io/badge/By-LaFabriqAI-purple)](https://lafabriq.ai)
@@ -81,10 +81,11 @@ Notre mission : donner aux décideurs les moyens de piloter des projets IA avec 
 
 ### Autres Outils pour Managers
 
-- **[ai-vendor-selection](https://github.com/lafabriq/ai-vendor-selection)** - Choisir le bon prestataire IA
-- **[ai-project-estimation](https://github.com/lafabriq/ai-project-estimation)** - Estimer coûts et délais
-- **[ai-risk-management](https://github.com/lafabriq/ai-risk-management)** - Identifier et gérer les risques
-- **[ai-team-building](https://github.com/lafabriq/ai-team-building)** - Constituer une équipe efficace
+- **[ia-glossaire-business-fr](https://github.com/FR-Digital/ia-glossaire-business-fr)** - Comprendre l'IA en 50 termes essentiels
+- **[ia-vendor-selection](https://github.com/FR-Digital/ia-vendor-selection)** - Choisir le bon prestataire IA
+- **[ia-project-estimation](https://github.com/FR-Digital/ia-project-estimation)** - Estimer coûts et délais
+- **[ia-risk-management](https://github.com/FR-Digital/ia-risk-management)** - Identifier et gérer les risques
+- **[ia-team-building](https://github.com/FR-Digital/ia-team-building)** - Constituer une équipe efficace
 
 ---
 
@@ -98,7 +99,7 @@ Vous avez évalué une IA ? Partagez votre expérience !
 
 ## Contact
 
-- **Questions :** [Ouvrir une issue](https://github.com/lafabriq/ai-evaluation-pratique/issues)
+- **Questions :** [Ouvrir une issue](https://github.com/FR-Digital/ia-evaluation-pratique/issues)
 - **Email :** contact@lafabriq.ai
 - **Site :** [lafabriq.ai](https://lafabriq.ai)
 

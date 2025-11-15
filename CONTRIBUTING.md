@@ -1,6 +1,6 @@
 # Guide de Contribution
 
-Merci de votre intérêt pour contribuer à **AI Evaluation Pratique** !
+Merci de votre intérêt pour contribuer à **IA Evaluation Pratique** !
 
 ## Comment Contribuer
 
@@ -40,7 +40,7 @@ Tout contenu doit être :
 
 ## Questions ?
 
-Ouvrez une [issue](https://github.com/lafabriq/ai-evaluation-pratique/issues) ou contactez-nous à contact@lafabriq.ai
+Ouvrez une [issue](https://github.com/FR-Digital/ia-evaluation-pratique/issues) ou contactez-nous à contact@lafabriq.ai
 
 ---
 

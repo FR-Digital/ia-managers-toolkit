@@ -1,4 +1,4 @@
-# Instructions Spécifiques - Repo: ai-evaluation-pratique
+# Instructions Spécifiques - Repo: ia-evaluation-pratique
 
 **Référence générique :** Voir fichier `instructions` pour les standards communs.
 
@@ -6,10 +6,10 @@
 
 ## Informations Repo
 
-**Nom :** `ai-evaluation-pratique`
+**Nom :** `ia-evaluation-pratique`
 **Tagline :** "Savoir si votre IA fonctionne bien, sans être data scientist"
 **Priorité :** 🔥🔥 HAUTE
-**URL :** `https://github.com/lafabriq/ai-evaluation-pratique`
+**URL :** `https://github.com/FR-Digital/ia-evaluation-pratique`
 
 ---
 
@@ -25,7 +25,7 @@ Donner aux managers les outils pour évaluer la qualité d'un système IA de man
 ## Structure Complète
 
 ```
-ai-evaluation-pratique/
+ia-evaluation-pratique/
 │
 ├── README.md
 ├── CONTRIBUTING.md
