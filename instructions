@@ -1,0 +1,219 @@
+# Instructions Génériques - IA Managers Toolkit
+
+## Initiative LaFabriqAI
+
+**LaFabriqAI** crée une série de repos open-source pour démystifier l'IA pour les managers non-techniques. L'objectif : donner aux décideurs les outils pratiques pour piloter des projets IA sans être data scientist.
+
+### Vision
+
+Les managers ont besoin de :
+- **Comprendre** l'IA sans jargon technique
+- **Évaluer** les projets avec des critères business
+- **Décider** avec des frameworks clairs
+- **Piloter** avec des métriques actionnables
+
+### Collection de Repos (6 repos)
+
+Chaque repo de la collection suit la même philosophie : pratique, actionnable, business-oriented.
+
+**Organisation GitHub :** [FR-Digital](https://github.com/FR-Digital)
+**Préfixe standard :** `ia-` (français)
+
+| Repo | Tagline | Priorité |
+|------|---------|----------|
+| `ia-glossaire-business-fr` | Comprendre l'IA en 50 termes essentiels | 🔥🔥 HAUTE |
+| `ia-evaluation-pratique` | Savoir si votre IA fonctionne bien, sans être data scientist | 🔥🔥 HAUTE |
+| `ia-vendor-selection` | Choisir le bon prestataire IA sans se faire avoir | 🔥🔥 HAUTE |
+| `ia-project-estimation` | Estimer coûts et délais d'un projet IA | 🔥 MOYENNE |
+| `ia-risk-management` | Identifier et gérer les risques IA | 🔥 MOYENNE |
+| `ia-team-building` | Constituer une équipe IA efficace | 🔥 MOYENNE |
+
+---
+
+## Structure Standard des Repos
+
+Chaque repo suit cette structure cohérente :
+
+```
+ia-[repo-name]/
+│
+├── README.md                    # Présentation + Quick Start
+├── CONTRIBUTING.md              # Guide de contribution
+├── LICENSE                      # MIT License
+├── SOURCES.md                   # Sources et références
+├── instructions                 # Instructions génériques (ce fichier)
+├── instructions-[repo-name]     # Instructions spécifiques au repo
+│
+├── frameworks/                  # Cadres méthodologiques (si applicable)
+│   └── [framework-principal].md
+│
+├── guides/                      # Guides pratiques step-by-step
+│   └── [guide-principal].md
+│
+├── templates/                   # Modèles prêts à l'emploi
+│   ├── [template].xlsx
+│   └── [template].md
+│
+├── checklists/                  # Listes de vérification
+│   └── [checklist].md
+│
+└── examples/                    # Cas concrets documentés
+    └── [exemple].md
+```
+
+**Note :** Certains repos peuvent avoir une structure simplifiée (ex: glossaire = termes/ au lieu de frameworks/).
+
+---
+
+## Standards de Contenu
+
+### Ton et Style
+
+- **Langage simple** : Pas de jargon technique non expliqué
+- **Business-first** : Toujours partir du problème business
+- **Actionnable** : Chaque contenu doit pouvoir être utilisé immédiatement
+- **Exemples concrets** : Illustrer avec des cas réels
+
+### Format des Fichiers Markdown
+
+```markdown
+# Titre Principal
+
+> **Citation ou tagline**
+
+## Le Problème (ou Objectif)
+[Pourquoi ce contenu existe]
+
+## La Solution
+[Ce que vous allez apprendre/utiliser]
+
+## Quick Start
+[3-5 étapes pour démarrer immédiatement]
+
+## Contenu Principal
+[Le cœur du document]
+
+## Checklist / Résumé
+[Points clés à retenir]
+
+## Ressources Associées
+[Liens vers templates, guides connexes]
+
+---
+*Dernière MAJ : [Mois Année] | [Source/Inspiration si applicable]*
+```
+
+### README Standard
+
+Chaque README doit inclure :
+
+1. **Badges** (stars, license, language, LaFabriqAI)
+2. **Le Problème** en 3 bullet points max
+3. **Quick Start** avec liens directs
+4. **Table des matières** des contenus
+5. **Section Contribuer**
+6. **À Propos de LaFabriqAI** avec liens vers les 6 repos
+7. **Contact** (issues GitHub, email)
+8. **Footer avec branding**
+
+---
+
+## Branding LaFabriqAI
+
+### Footer Standard
+
+```markdown
+---
+
+**Made with ❤️ by [LaFabriqAI](https://lafabriq.ai)**
+
+🌟 **Aimez ce repo ?** Donnez-nous une star !
+📬 **Questions ?** [Ouvrez une issue](https://github.com/FR-Digital/[repo-name]/issues)
+🤝 **Envie de contribuer ?** [CONTRIBUTING.md](CONTRIBUTING.md)
+
+**Autres outils pour managers :**
+- [ia-glossaire-business-fr](https://github.com/FR-Digital/ia-glossaire-business-fr) - Comprendre l'IA en 50 termes
+- [ia-evaluation-pratique](https://github.com/FR-Digital/ia-evaluation-pratique) - Évaluer la qualité
+- [ia-vendor-selection](https://github.com/FR-Digital/ia-vendor-selection) - Choisir un prestataire
+- [Plus de repos...](https://github.com/FR-Digital)
+```
+
+### Badges Standard
+
+```markdown
+[![Stars](https://img.shields.io/github/stars/FR-Digital/[repo-name])](https://github.com/FR-Digital/[repo-name]/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![French](https://img.shields.io/badge/Lang-Français-blue)]()
+[![LaFabriqAI](https://img.shields.io/badge/By-LaFabriqAI-purple)](https://lafabriq.ai)
+```
+
+---
+
+## Workflow de Création
+
+### Phase 1 : Setup (Semaine 1)
+- [ ] Créer repo sur FR-Digital avec préfixe `ia-`
+- [ ] Copier fichier `instructions` générique
+- [ ] Créer fichier `instructions-[repo-name]` spécifique
+- [ ] README.md avec présentation LaFabriqAI
+- [ ] LICENSE (MIT)
+- [ ] CONTRIBUTING.md
+- [ ] Framework principal (PRIORITÉ 1)
+
+### Phase 2 : Contenu Core (Semaine 2)
+- [ ] Checklists essentielles
+- [ ] Guide principal (PRIORITÉ 2)
+- [ ] Template principal (PRIORITÉ 3)
+- [ ] Premier exemple concret
+
+### Phase 3 : Enrichissement (Semaines 3-4)
+- [ ] Contenus secondaires
+- [ ] Exemples additionnels
+- [ ] SOURCES.md
+- [ ] Révision et polish
+- [ ] Vérifier liens vers autres repos FR-Digital
+
+---
+
+## Qualité et Cohérence
+
+### Avant chaque commit
+
+- [ ] Structure de dossiers respectée
+- [ ] README complet avec Quick Start
+- [ ] Au moins 1 framework/guide, 1 template
+- [ ] Exemples concrets inclus
+- [ ] Liens internes fonctionnels
+- [ ] Branding LaFabriqAI présent
+- [ ] URLs pointent vers FR-Digital (pas lafabriq)
+- [ ] Préfixe ia- utilisé (pas ai-)
+- [ ] Tone business-friendly vérifié
+
+### Revue croisée
+
+Chaque nouveau contenu doit :
+1. Répondre à un vrai problème manager
+2. Être utilisable en < 15 minutes
+3. Avoir des exemples concrets
+4. S'intégrer avec les autres repos de la collection
+
+### Synchronisation entre repos
+
+Quand on met à jour ce fichier `instructions` générique :
+1. Propager sur tous les repos de la collection
+2. Vérifier que les liens croisés restent valides
+3. S'assurer que la liste des 6 repos est à jour
+
+---
+
+## Rappel Important
+
+**Collectif/Marque :** LaFabriqAI
+**Organisation GitHub :** FR-Digital
+**Préfixe repos :** ia- (français)
+**Repos dans la collection :** 6 (glossaire, evaluation, vendor, estimation, risk, team)
+
+---
+
+*Ce fichier définit les standards pour tous les repos de la collection IA Managers Toolkit de LaFabriqAI.*
+*Organisation GitHub : github.com/FR-Digital*
