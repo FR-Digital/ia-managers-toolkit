@@ -1,75 +1,87 @@
-# IA Evaluation Pratique
+# IA Managers Toolkit 🎯
 
-> **Savoir si votre IA fonctionne bien, sans être data scientist**
+> **La boîte à outils des managers pour piloter l'IA sans être data scientist**
 
-[![Stars](https://img.shields.io/github/stars/FR-Digital/ia-evaluation-pratique)](https://github.com/FR-Digital/ia-evaluation-pratique/stargazers)
+[![Stars](https://img.shields.io/github/stars/FR-Digital/ia-managers-toolkit)](https://github.com/FR-Digital/ia-managers-toolkit/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![French](https://img.shields.io/badge/Lang-Français-blue)]()
+[![French](https://img.shields.io/badge/Lang-Français-blue)](README.md)
 [![LaFabriqAI](https://img.shields.io/badge/By-LaFabriqAI-purple)](https://lafabriq.ai)
 
 ---
 
-## Le Problème
+## 🚀 Pourquoi ce repo existe
 
-Votre équipe data vous dit : *"Le modèle a 92% de précision !"*
+Vous êtes manager, chef de projet ou dirigeant. On vous demande de "lancer un projet IA" mais :
+- ❌ Vous ne savez pas par où commencer
+- ❌ Vous avez peur de faire les mauvais choix (coûteux)
+- ❌ Vous ne comprenez pas le jargon technique
 
-Mais vous, ce que vous voulez savoir :
-- Est-ce que ça marche **vraiment** ?
-- Est-ce que les utilisateurs vont l'**utiliser** ?
-- Est-ce que ça va **rapporter** de l'argent ?
-
-**Ce repo vous donne les outils pour répondre à ces 3 questions.**
+Ce repo contient **tout ce qu'il faut** pour lancer et piloter un projet IA avec confiance, sans être data scientist.
 
 ---
 
-## Ce que vous trouverez
+## 📦 Ce que vous trouverez ici
 
-- **Framework 3 niveaux** - Évaluer sans être expert
-- **Checklists prêtes** - Qualité minimum, pré-production
-- **Templates** - Grilles de scoring, rapports qualité
-- **Exemples concrets** - Évaluations réelles documentées
-
----
-
-## Quick Start
-
-**Les 3 questions à se poser (dans l'ordre) :**
-
-1. **[Niveau 1 : Ça marche ?](frameworks/3-niveaux-evaluation.md#niveau-1--est-ce-que-ça-marche-)** (Tests techniques)
-2. **[Niveau 2 : C'est utilisé ?](frameworks/3-niveaux-evaluation.md#niveau-2--est-ce-que-les-utilisateurs-lutilisent-)** (Adoption)
-3. **[Niveau 3 : Ça rapporte ?](frameworks/3-niveaux-evaluation.md#niveau-3--est-ce-que-ça-a-un-impact-business-)** (ROI)
-
-**[Lire le framework complet](frameworks/3-niveaux-evaluation.md)**
+- ✅ **Guides pratiques** - Du go/no-go au déploiement
+- 📊 **Templates Excel/PowerPoint** - ROI calculator, pitch COMEX, budget
+- 🎓 **Checklists** - Pré-projet, qualité, sécurité
+- 💼 **Exemples réels** - Retail, industrie, finance avec ROI
 
 ---
 
-## Frameworks
+## ⚡ Quick Start
 
-- **[3 Niveaux d'Évaluation](frameworks/3-niveaux-evaluation.md)** - Le framework principal
-- **[Métriques Business vs Tech](frameworks/metriques-business-vs-tech.md)** - Traduire les KPIs techniques
-- **[Quand Arrêter un Projet](frameworks/quand-arreter-projet.md)** - Critères d'abandon
+**Pour les très pressés (15 min) :**
 
-## Guides
+1. 📥 Téléchargez la [checklist pré-projet](docs/checklists/pre-projet.md)
+2. ✓ Cochez les items (30 min avec votre équipe)
+3. 🎯 Vous savez si vous pouvez lancer (score > 70%)
 
-- **[Organiser des Tests Utilisateurs](guides/organiser-tests-utilisateurs.md)** - Beta test en 4 étapes
-- **[Questions à Poser à Votre Équipe Technique](guides/questions-equipe-technique.md)** - 30 questions business
-- **[Critères Go/No-Go Production](guides/criteres-go-production.md)** - Décider si on déploie
+**Pour aller plus loin (2h) :**
 
-## Checklists
+👉 Lisez le [guide complet "Lancer un projet IA"](docs/guides/01-lancer-projet-ia.md)
 
-- **[Qualité Minimum](checklists/qualite-minimum.md)** - Ce qu'il FAUT avoir avant de lancer
-- **[Pré-Production](checklists/pre-production.md)** - Vérifications avant déploiement
+---
 
-## Templates
+## 📚 Table des Matières
 
-- **[Grille d'Évaluation](templates/grille-evaluation.md)** - Scoring automatique des tests
-- **[Rapport Qualité](templates/rapport-qualite.md)** - Template rapport mensuel
-- **[Formulaire Feedback](templates/feedback-utilisateur.md)** - Sondage satisfaction
+### 📖 Guides (pas-à-pas)
 
-## Exemples Réels
+1. **[Lancer un projet IA](docs/guides/01-lancer-projet-ia.md)** - Les 5 étapes de l'idée au POC
+2. **[Sélectionner le bon use case](docs/guides/02-selectionner-use-case.md)** - Éviter les fausses bonnes idées
+3. **[Constituer l'équipe](docs/guides/03-constituer-equipe.md)** - Qui recruter et comment
+4. **[Mesurer le ROI](docs/guides/04-mesurer-roi.md)** - Framework complet avec exemples
+5. **[Communiquer aux stakeholders](docs/guides/05-communiquer-stakeholders.md)** - COMEX, équipes, utilisateurs
 
-- **[Évaluation Chatbot SAV](examples/evaluation-chatbot.md)** - Niveau 1→2→3 documenté
-- **[Évaluation Analyse Sentiment](examples/evaluation-analyse-sentiment.md)** - Cas d'échec instructif
+### ✓ Checklists (prêtes à utiliser)
+
+- **[Checklist pré-projet](docs/checklists/pre-projet.md)** - 25 points à vérifier avant de lancer
+- **[Grille go/no-go](docs/checklists/go-no-go.md)** - Décision en 10 questions
+- **[Audit qualité IA](docs/checklists/quality-audit.md)** - Est-ce que ça marche bien ?
+
+### 📄 Templates (téléchargeables)
+
+- **[Calculateur ROI](templates/excel/roi-calculator.xlsx)** - Excel avec formules automatiques
+- **[Budget projet IA](templates/excel/budget-template.xlsx)** - POC + Production
+- **[Pitch COMEX](templates/powerpoint/pitch-comex.pptx)** - Présentation prête à adapter
+- **[Charte projet](templates/markdown/project-charter.md)** - Document de cadrage
+- **[Rapport mensuel](templates/markdown/monthly-report.md)** - Suivi avancement
+
+### 💼 Exemples Réels (avec ROI)
+
+- **[Chatbot SAV Retail](examples/use-cases/retail-chatbot.md)** - ROI 71%, payback 7 mois
+- **[Maintenance prédictive Industrie](examples/use-cases/industrie-maintenance.md)** - ROI 240%, payback 5 mois
+- **[Détection fraude Finance](examples/use-cases/finance-fraude.md)** - ROI 450%, payback 3 mois
+
+---
+
+## 💬 Témoignages
+
+> "Grâce au framework go/no-go, nous avons économisé 6 mois et 100k€ en ne lançant PAS un projet voué à l'échec"
+> — *Directeur Innovation, ETI Industrie*
+
+> "Le calculateur ROI nous a permis de convaincre le COMEX en 20 minutes"
+> — *Chef de Projet Digital, Retail*
 
 ---
 
@@ -82,32 +94,32 @@ Notre mission : donner aux décideurs les moyens de piloter des projets IA avec 
 ### Autres Outils pour Managers
 
 - **[ia-glossaire-business-fr](https://github.com/FR-Digital/ia-glossaire-business-fr)** - Comprendre l'IA en 50 termes essentiels
+- **[ia-evaluation-pratique](https://github.com/FR-Digital/ia-evaluation-pratique)** - Évaluer la qualité de vos modèles IA
 - **[ia-vendor-selection](https://github.com/FR-Digital/ia-vendor-selection)** - Choisir le bon prestataire IA
 - **[ia-project-estimation](https://github.com/FR-Digital/ia-project-estimation)** - Estimer coûts et délais
 - **[ia-risk-management](https://github.com/FR-Digital/ia-risk-management)** - Identifier et gérer les risques
-- **[ia-team-building](https://github.com/FR-Digital/ia-team-building)** - Constituer une équipe efficace
 
 ---
 
-## Contribuer
+## 🤝 Contribuer
 
-Vous avez évalué une IA ? Partagez votre expérience !
+Vous avez un retour d'expérience ? Une erreur à corriger ? Un template à partager ?
 
-**[CONTRIBUTING.md](CONTRIBUTING.md)**
+👉 Consultez [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---
 
-## Contact
+## 📞 Contact
 
-- **Questions :** [Ouvrir une issue](https://github.com/FR-Digital/ia-evaluation-pratique/issues)
+- **Questions :** [Ouvrir une issue](https://github.com/FR-Digital/ia-managers-toolkit/issues)
 - **Email :** contact@lafabriq.ai
 - **Site :** [lafabriq.ai](https://lafabriq.ai)
 
 ---
 
-## Licence
+## 📜 Licence
 
-[MIT License](LICENSE) - Utilisez librement !
+[MIT License](LICENSE) - Utilisable librement, même en entreprise.
 
 ---
 
