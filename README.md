@@ -48,30 +48,30 @@ Ce repo contient **tout ce qu'il faut** pour lancer et piloter un projet IA avec
 ### 📖 Guides (pas-à-pas)
 
 1. **[Lancer un projet IA](docs/guides/01-lancer-projet-ia.md)** - Les 5 étapes de l'idée au POC
-2. **[Sélectionner le bon use case](docs/guides/02-selectionner-use-case.md)** - Éviter les fausses bonnes idées
-3. **[Constituer l'équipe](docs/guides/03-constituer-equipe.md)** - Qui recruter et comment
-4. **[Mesurer le ROI](docs/guides/04-mesurer-roi.md)** - Framework complet avec exemples
-5. **[Communiquer aux stakeholders](docs/guides/05-communiquer-stakeholders.md)** - COMEX, équipes, utilisateurs
+2. **🚧 Sélectionner le bon use case** - Éviter les fausses bonnes idées *(à venir)*
+3. **🚧 Constituer l'équipe** - Qui recruter et comment *(à venir)*
+4. **🚧 Mesurer le ROI** - Framework complet avec exemples *(à venir)*
+5. **🚧 Communiquer aux stakeholders** - COMEX, équipes, utilisateurs *(à venir)*
 
 ### ✓ Checklists (prêtes à utiliser)
 
 - **[Checklist pré-projet](docs/checklists/pre-projet.md)** - 25 points à vérifier avant de lancer
-- **[Grille go/no-go](docs/checklists/go-no-go.md)** - Décision en 10 questions
-- **[Audit qualité IA](docs/checklists/quality-audit.md)** - Est-ce que ça marche bien ?
+- **🚧 Grille go/no-go** - Décision en 10 questions *(à venir)*
+- **🚧 Audit qualité IA** - Est-ce que ça marche bien ? *(à venir)*
 
 ### 📄 Templates (téléchargeables)
 
-- **[Calculateur ROI](templates/excel/roi-calculator.xlsx)** - Excel avec formules automatiques
-- **[Budget projet IA](templates/excel/budget-template.xlsx)** - POC + Production
-- **[Pitch COMEX](templates/powerpoint/pitch-comex.pptx)** - Présentation prête à adapter
-- **[Charte projet](templates/markdown/project-charter.md)** - Document de cadrage
-- **[Rapport mensuel](templates/markdown/monthly-report.md)** - Suivi avancement
+- **🚧 Calculateur ROI** - Excel avec formules automatiques *(à venir)*
+- **🚧 Budget projet IA** - POC + Production *(à venir)*
+- **🚧 Pitch COMEX** - Présentation prête à adapter *(à venir)*
+- **🚧 Charte projet** - Document de cadrage *(à venir)*
+- **🚧 Rapport mensuel** - Suivi avancement *(à venir)*
 
 ### 💼 Exemples Réels (avec ROI)
 
 - **[Chatbot SAV Retail](examples/use-cases/retail-chatbot.md)** - ROI 71%, payback 7 mois
-- **[Maintenance prédictive Industrie](examples/use-cases/industrie-maintenance.md)** - ROI 240%, payback 5 mois
-- **[Détection fraude Finance](examples/use-cases/finance-fraude.md)** - ROI 450%, payback 3 mois
+- **🚧 Maintenance prédictive Industrie** - ROI 240%, payback 5 mois *(à venir)*
+- **🚧 Détection fraude Finance** - ROI 450%, payback 3 mois *(à venir)*
 
 ---
 

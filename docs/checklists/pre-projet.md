@@ -221,8 +221,8 @@ Cette checklist vous permet de vérifier que vous avez tous les éléments néce
 
 ## 📥 Versions téléchargeables
 
-- 📄 **PDF imprimable** : [checklist-pre-projet.pdf](../../templates/pdf/checklist-pre-projet.pdf)
-- 📊 **Excel avec scoring auto** : [checklist-pre-projet.xlsx](../../templates/excel/checklist-pre-projet.xlsx)
+- 🚧 **PDF imprimable** - checklist-pre-projet.pdf *(à venir)*
+- 🚧 **Excel avec scoring auto** - checklist-pre-projet.xlsx *(à venir)*
 - 🔗 **Google Sheets** : *(à venir)*
 
 ---
@@ -233,8 +233,8 @@ Après avoir complété cette checklist :
 
 **Si score > 70% :**
 - 👉 Lisez le [Guide complet "Lancer un projet IA"](../guides/01-lancer-projet-ia.md)
-- 👉 Utilisez le [Template fiche projet](../../templates/markdown/project-charter.md)
-- 👉 Calculez votre ROI avec le [Calculateur Excel](../../templates/excel/roi-calculator.xlsx)
+- 👉 Utilisez le Template fiche projet (🚧 à venir)
+- 👉 Calculez votre ROI avec le Calculateur Excel (🚧 à venir)
 
 **Si score 30-70% :**
 - 👉 Identifiez les 3-5 items les plus critiques manquants
