@@ -25,7 +25,7 @@ En 3 phrases : **Définir un objectif business mesurable, vérifier la faisabili
 
 **Qui le fait :** Sponsor projet + Manager métier
 **Temps :** 2-4h
-**Livrable :** Fiche objectif (voir [template](../../templates/markdown/project-charter.md))
+**Livrable :** Fiche objectif (🚧 template à venir)
 
 **💡 Conseil :** Commencez par "Nous voulons réduire/augmenter [QUOI] de [COMBIEN]"
 
@@ -90,7 +90,7 @@ Seuil minimum acceptable : Temps < 8h ET satisfaction > 75%
 **Budget :**
 - [ ] Budget POC validé (20-50k€)
 - [ ] Budget production estimé (100-300k€)
-- [ ] ROI calculé (voir [calculateur](../../templates/excel/roi-calculator.xlsx))
+- [ ] ROI calculé (🚧 calculateur à venir)
 - [ ] Payback < 18 mois
 
 **Équipe :**
@@ -160,7 +160,7 @@ Seuil minimum acceptable : Temps < 8h ET satisfaction > 75%
 
 **Qui le fait :** Sponsor + Chef de projet + DAF
 **Temps :** 1 semaine
-**Livrable :** [Grille go/no-go](../checklists/go-no-go.md) + Décision formelle
+**Livrable :** Grille go/no-go (🚧 à venir) + Décision formelle
 
 **💡 Conseil :** Impliquez les utilisateurs finaux dans la décision (pas que le COMEX)
 
@@ -265,9 +265,9 @@ Pour ne rien oublier, utilisez la [checklist pré-projet complète](../checklist
 
 ## Templates prêts à l'emploi
 
-- [Fiche objectif projet](../../templates/markdown/project-charter.md) - Document de cadrage
-- [Calculateur ROI](../../templates/excel/roi-calculator.xlsx) - Excel avec formules automatiques
-- [Pitch COMEX](../../templates/powerpoint/pitch-comex.pptx) - Présentation pour convaincre
+- 🚧 Fiche objectif projet - Document de cadrage *(à venir)*
+- 🚧 Calculateur ROI - Excel avec formules automatiques *(à venir)*
+- 🚧 Pitch COMEX - Présentation pour convaincre *(à venir)*
 
 ---
 
@@ -275,8 +275,8 @@ Pour ne rien oublier, utilisez la [checklist pré-projet complète](../checklist
 
 Consultez nos cas d'usage documentés avec ROI réel :
 - [Chatbot SAV Retail](../../examples/use-cases/retail-chatbot.md) - ROI 71%, payback 7 mois
-- [Maintenance prédictive Industrie](../../examples/use-cases/industrie-maintenance.md) - ROI 240%
-- [Détection fraude Finance](../../examples/use-cases/finance-fraude.md) - ROI 450%
+- 🚧 Maintenance prédictive Industrie - ROI 240% *(à venir)*
+- 🚧 Détection fraude Finance - ROI 450% *(à venir)*
 
 ---
 
@@ -292,13 +292,13 @@ R : POC : 20-50k€. Production : 100-300k€ selon complexité. Maintenance : 2
 R : Oui, en utilisant des APIs (OpenAI, Claude, etc.) et en faisant appel à un prestataire externe pour le POC. Mais vous aurez besoin d'un chef de projet qui comprend l'IA.
 
 **Q : Comment convaincre le COMEX ?**
-R : Parlez ROI, pas technologie. Montrez des cas d'usage similaires dans votre secteur. Proposez un POC limité (risque contrôlé). Utilisez notre [template pitch COMEX](../../templates/powerpoint/pitch-comex.pptx).
+R : Parlez ROI, pas technologie. Montrez des cas d'usage similaires dans votre secteur. Proposez un POC limité (risque contrôlé). Un template pitch COMEX sera bientôt disponible.
 
 **Q : Que faire si le POC échoue ?**
 R : Analysez pourquoi (données ? complexité ? mauvais use case ?). Si c'est réparable, itérez. Sinon, arrêtez et pivotez sur un autre use case. Un POC qui échoue n'est PAS un échec si vous en tirez des leçons.
 
 **Q : Faut-il développer in-house ou utiliser des APIs ?**
-R : Pour démarrer : API (plus simple, moins cher). Pour scaler : dépend du volume et de la sensibilité des données. Voir notre [guide API vs In-House](../../comparaisons/api-vs-inhouse.md).
+R : Pour démarrer : API (plus simple, moins cher). Pour scaler : dépend du volume et de la sensibilité des données. Un guide détaillé API vs In-House sera bientôt disponible.
 
 **Q : Comment gérer la conformité RGPD et AI Act ?**
 R : Impliquez votre DPO dès l'étape 1. Documentez l'usage des données. Prévoyez un registre de traitement. Pour l'AI Act : si votre IA est "à haut risque" (RH, santé, finance), prévoyez un audit externe. Budget : 5-20k€.
@@ -316,9 +316,9 @@ Ce guide s'appuie sur :
 
 ## Pour Aller Plus Loin
 
-- 📖 [Sélectionner le bon use case](02-selectionner-use-case.md) - Éviter les fausses bonnes idées
-- 👥 [Constituer l'équipe](03-constituer-equipe.md) - Qui recruter et comment
-- 📊 [Mesurer le ROI](04-mesurer-roi.md) - Framework complet avec exemples
+- 🚧 Sélectionner le bon use case - Éviter les fausses bonnes idées *(à venir)*
+- 🚧 Constituer l'équipe - Qui recruter et comment *(à venir)*
+- 🚧 Mesurer le ROI - Framework complet avec exemples *(à venir)*
 
 ---
 

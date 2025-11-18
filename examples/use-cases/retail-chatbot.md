@@ -399,7 +399,7 @@ Consultez [CONTRIBUTING.md](../../CONTRIBUTING.md)
 ## Ressources Complémentaires
 
 - 📖 [Guide "Lancer un projet IA"](../../docs/guides/01-lancer-projet-ia.md)
-- 📊 [Calculateur ROI](../../templates/excel/roi-calculator.xlsx)
+- 🚧 Calculateur ROI *(à venir)*
 - ✓ [Checklist pré-projet](../../docs/checklists/pre-projet.md)
 
 ---
